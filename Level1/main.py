@@ -16,6 +16,6 @@ from question26to30 import solution_27
 # solution_19()
 
 # solution_21()
-# solution_24()
+solution_24()
 
 # solution_27()

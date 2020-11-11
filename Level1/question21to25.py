@@ -34,25 +34,45 @@ def solution_24():
     n = 7 #H Gg 가 나와야 함
     
     s_list = list(s)
+    answer_list = []
     answer = ''
     
-    #문자열의 길이만큼
-    for i in range(len(s_list)):
-        if s_list[i] == ' ': #공백이라면
-            continue    #건너뜀
+    # #문자열의 길이만큼
+    # for i in range(len(s_list)):
+    #     if s_list[i] == ' ': #공백이라면
+    #         continue    #건너뜀
         
-        ascii_s = ord(s_list[i])
-        tmp_ascii = ascii_s + n
+    #     ascii_s = ord(s_list[i])
+    #     tmp_ascii = ascii_s + n
 
-        #대문자인경우
-        if 65 <= ascii_s <= 90 and tmp_ascii>90:
-          tmp_ascii = tmp_ascii - 26
+    #     #대문자인경우
+    #     if 65 <= ascii_s <= 90 and tmp_ascii>90:
+    #       tmp_ascii = tmp_ascii - 26
 
-        #소문자인경우
-        if 97 <= ascii_s <= 122 and tmp_ascii>122:
-          tmp_ascii = tmp_ascii - 26
+    #     #소문자인경우
+    #     if 97 <= ascii_s <= 122 and tmp_ascii>122:
+    #       tmp_ascii = tmp_ascii - 26
 
-        s_list[i] = chr(tmp_ascii)
-    answer = answer.join(s_list)
-    print(answer)
+    #     s_list[i] = chr(tmp_ascii)
+    # answer = answer.join(s_list)
+    # print(answer)
+    # return answer
+    
+    for s in s_list:
+        if s == ' ':
+            answer_list.append(' ')
+            continue
+
+        ascii_s = ord(s)
+        ascii_A = ord('A')
+        ascii_a = ord('a')
+        tmp_ascii = 0
+
+        if s.isupper(): #대문자라면
+            tmp_ascii = (ascii_s - ascii_A + n) % 26 + ascii_A
+        elif s.islower(): #소문자라면
+            tmp_ascii = (ascii_s - ascii_a + n) % 26 + ascii_a
+        answer_list.append(chr(tmp_ascii))
+        
+    answer = answer.join(answer_list)
     return answer
