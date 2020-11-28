@@ -12,6 +12,48 @@ def solution48(d, budget):
     return i+1
 
 
+#49) [1차] 비밀지도
+# https://programmers.co.kr/learn/courses/30/lessons/17681
+def solution49(n, arr1, arr2):
+    answer = []
+    
+    #arr를 이진수로 바꾸는 함수
+    def change_binary(arr):
+        cnt = 0
+        bi_arrs = []
+        for a in arr:
+            # print('a-------------------',a)
+            binary_arr = []
+            while a > 0 :
+                binary_arr.append(a%2)
+                a = a // 2
+                cnt += 1
+            while cnt < n :
+                binary_arr.append(0)
+                cnt += 1
+
+            binary_arr.reverse()
+            bi_arrs.append(binary_arr)
+            cnt = 0
+        return bi_arrs
+    
+    cb1 = change_binary(arr1)
+    cb2 = change_binary(arr2)
+    
+    #n만큼 돌면서 두 배열을 비교
+    for i in range(n):
+        tmp_str = ''
+        for j in range(n):
+            if cb1[i][j] == 0 and cb2[i][j] == 0 :#둘다0이면
+                tmp_str += ' '
+            else : #하나라도 1이면
+                tmp_str += '#'
+        answer.append(tmp_str)
+    print(answer)
+    
+    return answer
+
+
 
 # 50) 실패율
 # https://programmers.co.kr/learn/courses/30/lessons/42889
