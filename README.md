@@ -2,6 +2,21 @@
 
 張飛⚒ 프로그래머스 문제 풀이
 
+
+### Level2[👍](https://github)com/Oath-of-the-Peach-Garden/Zhang-Fei)
+- [ ]  1) 124나라의 숫자
+- [ ]  2) 가장 큰 정사각형 찾기
+- [ ]  3) 올바른 괄호
+- [ ]  4) 다음 큰 숫자
+- [ ]  5) 땅따먹기
+- [ ]  6) 숫자의 표현
+- [ ]  7) 최대값과 최소값
+- [ ]  8) 최소값 만들기
+- [ ]  9) 피보나치수
+- [ ]  10) 행렬의 곱셈
+- [ ]  11) n개의 최소공배수
+- [ ]  12) JadenCase 문자열만들기
+
 ### Level1[🔥](https://github)com/Oath-of-the-Peach-Garden/Zhang-Fei)
 - [ ] 1) 모든 레코드 조회하기
 - [X] 2) 두 개 뽑아서 더하기
