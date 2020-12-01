@@ -3,7 +3,7 @@
 張飛⚒ 프로그래머스 문제 풀이
 
 
-### Level2[👍](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei)
+### Level2[👍](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/tree/main/Level2)
 - [X]  1) 124나라의 숫자
 - [ ]  2) 가장 큰 정사각형 찾기
 - [X]  3) 올바른 괄호
@@ -17,7 +17,7 @@
 - [ ]  11) n개의 최소공배수
 - [ ]  12) JadenCase 문자열만들기
 
-### Level1[🔥](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei)
+### Level1[🔥](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/tree/main/Level1)
 - [ ] 1) 모든 레코드 조회하기
 - [X] 2) 두 개 뽑아서 더하기
 - [ ] 3) 최댓값 구하기
