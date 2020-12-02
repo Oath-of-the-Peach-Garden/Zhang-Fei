@@ -15,7 +15,7 @@
 - [ ]  9) 피보나치수
 - [ ]  10) 행렬의 곱셈
 - [ ]  11) n개의 최소공배수
-- [ ]  12) JadenCase 문자열만들기
+- [X]  12) JadenCase 문자열만들기
 
 ### Level1[🔥](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/tree/main/Level1)
 - [ ] 1) 모든 레코드 조회하기
