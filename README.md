@@ -5,16 +5,16 @@
 
 ### Level2[👍](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/tree/main/Level2)
 - [X]  1) 124나라의 숫자
-- [ ]  2) 가장 큰 정사각형 찾기
+- [X]  2) 가장 큰 정사각형 찾기
 - [X]  3) 올바른 괄호
-- [ ]  4) 다음 큰 숫자
+- [X]  4) 다음 큰 숫자
 - [ ]  5) 땅따먹기
-- [ ]  6) 숫자의 표현
+- [X]  6) 숫자의 표현
 - [X]  7) 최대값과 최소값
-- [ ]  8) 최소값 만들기
+- [X]  8) 최소값 만들기
 - [X]  9) 피보나치수
 - [X]  10) 행렬의 곱셈
-- [ ]  11) n개의 최소공배수
+- [X]  11) n개의 최소공배수
 - [X]  12) JadenCase 문자열만들기
 
 ### Level1[🔥](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/tree/main/Level1)
