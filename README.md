@@ -4,32 +4,36 @@
 
 
 ### Level2[👍](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/tree/main/Level2)
-- [X]  1) 124나라의 숫자
-- [X]  2) 가장 큰 정사각형 찾기
-- [X]  3) 올바른 괄호
-- [X]  4) 다음 큰 숫자
+- [X]  1) 124나라의 숫자 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q1.py)
+- [X]  2) 가장 큰 정사각형 찾기 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q2.py)
+- [X]  3) 올바른 괄호 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q3.py)
+- [X]  4) 다음 큰 숫자 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q4.py)
 - [X]  5) 땅따먹기
-- [X]  6) 숫자의 표현
-- [X]  7) 최대값과 최소값
-- [X]  8) 최소값 만들기
-- [X]  9) 피보나치수
-- [X]  10) 행렬의 곱셈
-- [X]  11) n개의 최소공배수
-- [X]  12) JadenCase 문자열만들기
-- [X]  13) 다리를 지나는 트럭 [🤯](https://programmers.co.kr/learn/courses/30/lessons/42583)
-- [X]  14) 주식 가격
-- [X]  15) 가장 큰 수
-- [X]  16) H-Index
-- [ ]  17) 조이스틱 [🤯](https://programmers.co.kr/learn/courses/30/lessons/42860)
-- [X]  18) 큰 수 만들기
-- [X]  19) 구명보트
-- [X]  20) 소수 찾기
-- [X]  21) 카펫
-- [X]  22) 전화번호 목록
+- [X]  6) 숫자의 표현 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q6.py)
+- [X]  7) 최대값과 최소값 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q7.py)
+- [X]  8) 최소값 만들기 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q8.py)
+- [X]  9) 피보나치수 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q9.py)
+- [X]  10) 행렬의 곱셈 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q10.py)
+- [X]  11) n개의 최소공배수 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q11.py)
+- [X]  12) JadenCase 문자열만들기 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q12.py)
+- [X]  13) 다리를 지나는 트럭 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q13.py) [🤯](https://programmers.co.kr/learn/courses/30/lessons/42583)
+- [X]  14) 주식 가격 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q14.py)
+- [X]  15) 가장 큰 수 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q15.py)
+- [X]  16) H-Index [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q16.py)
+- [X]  17) 조이스틱 [🤯](https://programmers.co.kr/learn/courses/30/lessons/42860)
+- [X]  18) 큰 수 만들기 
+- [X]  19) 구명보트 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q19.py)
+- [X]  20) 소수 찾기 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q20.py)
+- [X]  21) 카펫 [📃](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/blob/main/Level2/lv2_q21.py)
+- [X]  22) 전화번호 목록 
 - [X]  23) 프린터
-- [X]  24) 기능개발
-- [X]  25) 더 맵게
-- [X]  26) 위장
+- [X]  24) 기능개발 
+- [X]  25) 더 맵게 
+- [X]  26) 위장 
+- [ ]  27) 타겟넘버
+- [ ]  28) 삼각달팽이
+- [ ]  29) 쿼드압축후 개수 세기
+- [ ]  30) 이진 변환 반복하기
 
 
 ### Level1[🔥](https://github.com/Oath-of-the-Peach-Garden/Zhang-Fei/tree/main/Level1)
